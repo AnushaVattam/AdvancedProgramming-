@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1450729154 source:c:\users\anusha\desktop\ds projects\assignments\stringexamples\main.cpp
+	<iostream>
+	<fstream>
+
+1450732999 source:c:\users\anusha\desktop\ds projects\assignments\stringexamples\trianglepattern.cpp
+	<iostream>
+	<fstream>
+

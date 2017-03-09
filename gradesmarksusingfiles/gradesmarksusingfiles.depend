@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450832012 source:c:\users\anusha\desktop\ds projects\assignments\gradesmarksusingfiles\filesgrades.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

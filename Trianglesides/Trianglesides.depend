@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1452106428 source:c:\users\anusha\desktop\ds projects\assignments\trianglesides\triiangle.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+

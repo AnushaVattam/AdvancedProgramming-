@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1451801277 source:c:\users\anusha\desktop\ds projects\assignments\randomgenerator\random.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+

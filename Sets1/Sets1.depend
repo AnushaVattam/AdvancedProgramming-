@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1452291287 source:c:\users\anusha\desktop\ds projects\assignments\sets1\charset.cpp
+	<iostream>
+	"charset.h"
+
+1452290872 c:\users\anusha\desktop\ds projects\assignments\sets1\charset.h
+
+1452290872 source:c:\users\anusha\desktop\ds projects\assignments\sets1\tester.cpp
+	"Charset.h"
+	<iostream>
+

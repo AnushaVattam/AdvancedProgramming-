@@ -1,0 +1,13 @@
+NamesMarks
+pradeep90
+anusha60
+science40
+maths65
+chemistry35
+social20
+physics45
+database30
+algorithms52
+dell25
+lenovo80
+hp50

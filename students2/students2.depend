@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1450825841 source:c:\users\anusha\desktop\ds projects\assignments\students2\studentsmarks.cpp
+	<iostream>
+	<fstream>
+	<vector>
+

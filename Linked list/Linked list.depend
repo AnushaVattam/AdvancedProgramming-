@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1452030651 source:c:\users\anusha\desktop\ds projects\assignments\linked list\list.cpp
+	<iostream>
+	<cstdlib>
+	"list.h"
+
+1452033357 c:\users\anusha\desktop\ds projects\assignments\linked list\list.h
+
+1452030792 source:c:\users\anusha\desktop\ds projects\assignments\linked list\tester.cpp
+	<cstdlib>
+	"list.h"
+

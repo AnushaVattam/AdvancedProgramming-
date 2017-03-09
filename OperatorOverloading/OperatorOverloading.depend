@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1452657573 source:c:\users\anusha\desktop\ds projects\assignments\operatoroverloading\opov.cpp
+	<iostream>
+	"OP.h"
+
+1452617481 c:\users\anusha\desktop\ds projects\assignments\operatoroverloading\op.h
+	<iostream>
+

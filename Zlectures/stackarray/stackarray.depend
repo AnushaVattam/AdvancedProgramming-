@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1449279530 source:c:\users\anusha\desktop\ds projects\assignments\stackarray\main.cpp
+	<iostream>
+	"stack.h"
+
+1449279723 c:\users\anusha\desktop\ds projects\assignments\stackarray\stack.h
+
+1449279785 source:c:\users\anusha\desktop\ds projects\assignments\stackarray\stack.cpp
+	<iostream>
+	<cstdlib>
+	"stack.h"
+

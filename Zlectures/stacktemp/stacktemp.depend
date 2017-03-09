@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1449280251 source:c:\users\anusha\desktop\ds projects\assignments\stacktemp\main.cpp
+	<iostream>
+	"stack.h"
+
+1449281061 c:\users\anusha\desktop\ds projects\assignments\stacktemp\stack.h
+
+1449280729 c:\users\anusha\desktop\ds projects\assignments\stacktemp\stack.cpp
+	<iostream>
+	<cstdlib>
+	"stack.h"
+
+1449280875 source:c:\users\anusha\desktop\ds projects\assignments\stacktemp\stack.cpp
+	<iostream>
+	<cstdlib>
+	"Stack.h"
+
+1449280840 source:c:\users\anusha\desktop\ds projects\assignments\stacktemp\stacktest.cpp
+	<iostream>
+	"stack.h"
+

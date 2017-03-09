@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1452631385 source:c:\users\anusha\desktop\ds projects\assignments\counterstring\counterstr.cpp
+	<iostream>
+	<string>
+

@@ -1,0 +1,4 @@
+anusha 20
+pradeep 95
+xyz 20
+pqr 90
